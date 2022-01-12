@@ -32,3 +32,9 @@ Populate the feed with content making an async call to this endpoint https://fly
 
 #### Further
 Implement a skeleton screen loading, as you see in the video.
+
+## Extension 
+
+The file App.js acts as the 'main' function and all the aspects of the website are in the components folder. I didn't download / resize any of the images to save time. When doing this actually teaching this or producing this it is important to download and resize the images.
+
+Work completed by Jamie Springett
