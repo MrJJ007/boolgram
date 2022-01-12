@@ -15,7 +15,7 @@ function App() {
     setTimeout(()=>{
       loadStories();
       loadPost();
-    },1);
+    },1000);
     const loadStories = async () => {
       setLoading(true);
       const response = await axios.get(
